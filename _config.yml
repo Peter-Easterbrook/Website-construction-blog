@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: What do we need today?
+author: Peter Github User
+email: fajag13774@yektara.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+This blog site is intended to provide a platform for you to air your thoughts in terms of current day website development for commercial purpose.
+Ideally, you'll justify your opinion as succinctly as possible.
+This should be just a light-hearted foray into the question of "what-to-learn-next?". 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: PeterEasterbro1 # DO NOT include the @ character, or else the build will fail!
+github_username:  Peter-Easterbrook # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
